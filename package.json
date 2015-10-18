@@ -1,12 +1,9 @@
 {
   "name": "serialport-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "A re-export of serialport allowing parallel install with serialport-2",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Aria Stewart <aredridel@dinhe.net>",
   "license": "ISC",
   "dependencies": {
     "serialport": "^1.7.4"
